@@ -11,7 +11,7 @@ fastlane add_plugin pgyer_upload_v2
 ```
 
 ### 2023-09-20 update
-replace pgyer.com with xcxwo.com
+replace `pgyer.com` with `xcxwo.com`
 
 ```Pluginfile
 gem 'fastlane-plugin-pgyer_upload_v2', git: "https://github.com/erickyim/fastlane-plugin-pgyer_upload_v2"
