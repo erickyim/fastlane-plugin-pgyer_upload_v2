@@ -10,6 +10,10 @@ This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To 
 fastlane add_plugin pgyer_upload_v2
 ```
 
+```Pluginfile
+gem 'fastlane-plugin-pgyer_upload_v2', git: "https://github.com/erickyim/fastlane-plugin-pgyer_upload_v2"
+```
+
 ## About pgyer_upload_v2
 
 distribute app to pgyer by API V2
