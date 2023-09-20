@@ -10,6 +10,9 @@ This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To 
 fastlane add_plugin pgyer_upload_v2
 ```
 
+### 2022-09-20 update
+replace pgyer.com with xcxwo.com
+
 ```Pluginfile
 gem 'fastlane-plugin-pgyer_upload_v2', git: "https://github.com/erickyim/fastlane-plugin-pgyer_upload_v2"
 ```
